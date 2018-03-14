@@ -16,8 +16,14 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 当然，你可以可以查看我写的 [《Gogolang专栏》](http://www.merlinblog.site/categories/Gogolang%E4%B8%93%E6%A0%8F/)，以及 [《其他专栏》](http://www.merlinblog.site/posts/590c21ce/#Gogolang)。
 
+## Oreilly_Practice
+
+根据 Go-By-Examples 始终还是自己再练习，如果有个大师带着你，你会有意想不到的收获。
+
+这里记录了我跟随大师的教程一起练习的代码，配套文章，参考 [《Golang: Here We Go(5.孰能生巧-Oreilly大师讲解练习)》](www.merlinblog.site/posts/94df7563/)
+
 ## Cases
 
-这里记录了 Golang 语言除了语法之外的练习代码，都是小案例。
+这里记录了 Golang 语言除了语法之外的练习代码，都是不大不小的案例。
 
 TODO-upload.

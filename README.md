@@ -20,10 +20,16 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 根据 Go-By-Examples 始终还是自己再练习，如果有个大师带着你，你会有意想不到的收获。
 
-这里记录了我跟随大师的教程一起练习的代码，配套文章，参考 [《Golang: Here We Go(5.孰能生巧-Oreilly大师讲解练习)》](www.merlinblog.site/posts/94df7563/)
+这里记录了我跟随大师的教程一起练习的代码，配套文章，参考 [《Golang: Here We Go(5.孰能生巧-Oreilly大师讲解练习)》](http://www.merlinblog.site/posts/94df7563/)。
 
 ## Cases
 
 这里记录了 Golang 语言除了语法之外的练习代码，都是不大不小的案例。
+
+## Std
+
+这里记录了标准库的一些常见&重要&实用的用法。
+
+配套的文章可以参考 [《Golang: 标准库解决方案》](http://www.merlinblog.site/categories/StdGolang专栏/)。
 
 TODO-upload.

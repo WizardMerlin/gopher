@@ -32,4 +32,12 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 配套的文章可以参考 [《Golang: 标准库解决方案》](http://www.merlinblog.site/categories/StdGolang专栏/)。
 
+## Gotcha
+
+这里记录了 Golang 语言中存在的各种坑，想到就写。
+
+专栏记载在 [《GotchaGolang专栏》](http://www.merlinblog.site/categories/GotchaGolang%E4%B8%93%E6%A0%8F/)，具体代码 ： [ReadMore](./gotcha/)
+
+---
+
 TODO-upload.

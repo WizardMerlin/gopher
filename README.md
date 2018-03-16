@@ -26,6 +26,8 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 这里记录了 Golang 语言除了语法之外的练习代码，都是不大不小的案例。
 
+并没有专栏去记载，都是些零碎的代码，比如解析 CSV, Json, TCP, RestFul等等，[ReadMore](./cases/)。
+
 ## Std
 
 这里记录了标准库的一些常见&重要&实用的用法。
@@ -36,7 +38,7 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 这里记录了 Golang 语言中存在的各种坑，想到就写。
 
-专栏记载在 [《GotchaGolang专栏》](http://www.merlinblog.site/categories/GotchaGolang%E4%B8%93%E6%A0%8F/)，具体代码 ： [ReadMore](./gotcha/)
+专栏记载在 [《GotchaGolang专栏》](http://www.merlinblog.site/categories/GotchaGolang%E4%B8%93%E6%A0%8F/)，具体代码 ： [ReadMore](./gotcha/)。
 
 ---
 

@@ -26,7 +26,7 @@ A treasure to gopher (Golang 宝库)，深耕。
 
 这里记录了 Golang 语言除了语法之外的练习代码，都是不大不小的案例。
 
-并没有专栏去记载，都是些零碎的代码，比如解析 CSV, Json, TCP, RestFul等等，[ReadMore](./cases/)。
+并没有专栏去记载，都是些零碎的代码，比如解析 CSV, Json, TCP, RestFul, 并发, 网络Socket等等，[ReadMore](./cases/)。
 
 ## Std
 
